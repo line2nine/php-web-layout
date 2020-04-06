@@ -1,0 +1,1 @@
+Copyright &copy; abc.com.vn
